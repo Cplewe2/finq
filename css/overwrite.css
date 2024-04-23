@@ -1,0 +1,44 @@
+h1{color: black;}
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+      
+a:visited {
+    color: gray;
+    background-color: transparent;
+    text-decoration: none;
+}
+      
+a:hover {
+    color:darkgrey;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.mvp{
+    align-items: center;
+    text-align: left;
+    list-style-position: inside;
+}
+.header{color: black;
+    text-align: center;
+}
+#top{text-align: center;}
+
+.top{
+    text-align: center;
+}
+body{
+    background-color:lightgray;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.Tab{
+    align-items: center;
+    text-align: center;
+    margin: 0%;
+    display: flex;
+}
+.name{
+    font-style: italic;
+}
